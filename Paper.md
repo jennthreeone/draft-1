@@ -1,3 +1,4 @@
 # 混 in october
-## Github
-### 
+## GitHub
+### first time learning this cool thing
+
